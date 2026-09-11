@@ -1,0 +1,13 @@
+{
+  "broadcasts": [
+    {
+      "id": "bc_1789131491601_61kqi",
+      "type": "info",
+      "title": "Update Baru",
+      "message": "Api All In One udah gw fix juga + penambahan fitur juga udah",
+      "duration": 3,
+      "timestamp": 1789131491601
+    }
+  ],
+  "customTypes": {}
+}
