@@ -1,6 +1,14 @@
 {
   "broadcasts": [
     {
+      "id": "bc_1789277776385_zn7hx",
+      "type": "info",
+      "title": "UPDATE BARU",
+      "message": "BAKAL ADA PERUBAHAN DIBAGIAN AWAL PAS KALIAN BUKA WEB NYA YA CUMAN SEDIKIT DAN BAKAL ADA BOCORAN YAITU SPAM....... NTAR KALIAN TUNGGU KALO GA ADA BEBERAPA UPDATE INSYAALLAH SORE KELAR",
+      "duration": 3,
+      "timestamp": 1789277776385
+    },
+    {
       "id": "bc_1789131491601_61kqi",
       "type": "info",
       "title": "Update Baru",
