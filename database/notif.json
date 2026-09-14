@@ -1,6 +1,17 @@
 {
   "broadcasts": [
     {
+      "id": "bc_1789400036020_qef54",
+      "title": "test",
+      "message": "Ted",
+      "type": "info",
+      "duration": 3,
+      "target": [
+        "ndizzxd"
+      ],
+      "timestamp": 1789400036020
+    },
+    {
       "id": "bc_1789277776385_zn7hx",
       "type": "info",
       "title": "UPDATE BARU",
